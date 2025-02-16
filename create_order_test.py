@@ -1,3 +1,4 @@
+# Валентин Мельников, 26-я когорта — Финальный проект. Инженер по тестированию плюс
 import sender_stand_request
 
 def test_create_order_and_retrieve_order_info():
